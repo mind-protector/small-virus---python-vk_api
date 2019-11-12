@@ -6,7 +6,7 @@ P.S.
 
 deinstall.py has been created to remove the virus from the user's computer.
 
-And you don't need to install any modules
+You don't need to install any modules
 
 
 Python version: >3.3

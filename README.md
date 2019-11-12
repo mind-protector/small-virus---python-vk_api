@@ -4,4 +4,5 @@ The .pyw file also creates another .pyw file that will receive signals from the 
 
 P.S.
 deinstall.py has been created to remove the virus from the user's computer
+
 Python version: >3.3
